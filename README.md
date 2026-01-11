@@ -166,7 +166,7 @@ footer{
             <p>Premium Quality Farm Grains</p>
         </div>
 
-        <div class="product">
+        <div class="29">
             <img src="https://images.unsplash.com/photo-1592924357228-91a4daadcfea">
             <h3>Agro Food Products</h3>
             <p>Fresh & Natural Agro Foods</p>
@@ -177,11 +177,11 @@ footer{
 <section class="contact" id="contact">
     <h2>Contact Us</h2>
     <p>📍 India</p>
-    <p>📞 Phone: +91-XXXXXXXXXX</p>
-    <p>📧 Email: alaayatagro@gmail.com</p>
+    <p>📞 Phone: +91-8689067860</p>
+    <p>📧 Email: alaayatagrofoods@gmail.com</p>
 </section>
 
-<a class="whatsapp" href="https://wa.me/91XXXXXXXXXX" target="_blank">
+<a class="whatsapp" href="https://wa.me/91 8923667019" target="_blank">
     WhatsApp Us
 </a>
 
